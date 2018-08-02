@@ -3,8 +3,8 @@
 ##### Step1: 基本 Python 技能
 ##### Step2: 机器学习基础技巧 ✅
 ##### Step3: 科学计算 Python 软件包概述
-###### * Numpy
-###### * pandas
+* Numpy
+* pandas
 ##### Step4: 使用 Python 学习机器学习
 ##### Step5: Python 上实现机器学习的基本算法
 ##### Step6: Python 上实现进阶机器学习算法
