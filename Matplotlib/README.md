@@ -1,6 +1,8 @@
 
 ### [Matplotlib教程](https://matplotlib.org/tutorials/index.html)
-
+##### 相关链接
+* Matplotlib 中文用户指南 3.5 艺术家教程：https://www.jianshu.com/p/aeb1cdf269ea
+* Matplotlib 中文用户指南 3.1 pyplot教程：https://www.jianshu.com/p/c495e663f0ed?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 -------
 Matplotlib是一个Python 2D绘图库，可以在各种平台上以各种硬拷贝格式和交互式环境生成出版质量数据。Matplotlib可用于Python脚本，Python和IPythonshell，jupyter笔记本，Web应用程序服务器和四个图形用户界面工具包。／一个2D绘图库，可产生出版物质量的图表 
 * 最基本的x-y函数图象:`plt.plot()`
