@@ -10,4 +10,4 @@
 
 
 *****
-#### [2017年最流行的15个数据科学Python库](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726730&idx=2&sn=89d176a782875afaafc69dd40cbee006&chksm=871b2534b06cac22a9235168a8d8867b97f795d2fba4435a2c7ec18b1039703903e4a79560bd&scene=21#wechat_redirect)
+### [2017年最流行的15个数据科学Python库](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726730&idx=2&sn=89d176a782875afaafc69dd40cbee006&chksm=871b2534b06cac22a9235168a8d8867b97f795d2fba4435a2c7ec18b1039703903e4a79560bd&scene=21#wechat_redirect)
