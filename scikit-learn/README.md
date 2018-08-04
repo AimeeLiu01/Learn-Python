@@ -5,4 +5,5 @@
 * 建立在 NumPy，SciPy 和 matplotlib 上
 * Github： https://github.com/apachecn/scikit-learn-doc-zh/
 * Scikit-learn中文文档：http://sklearn.apachecn.org/cn/0.19.0/
+****
 ![](http://scikit-learn.org/dev/_static/ml_map.png)
