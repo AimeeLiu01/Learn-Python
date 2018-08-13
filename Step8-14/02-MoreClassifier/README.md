@@ -7,3 +7,5 @@
 - [sklearn.ensemble.AdaBoostClassifier](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
 
 2. ManyClassifier.ipynb利用UCL中找到的糖尿病数据集，用不同的分类方法（8种）来预测糖尿病
+* 数据集github链接：https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/diabetes.csv
+* 特征（怀孕次数，血糖，血压，皮脂厚度，胰岛素，BMI身体质量指数，糖尿病遗传函数，年龄，结果）
